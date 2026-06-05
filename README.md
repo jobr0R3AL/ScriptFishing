@@ -2,7 +2,7 @@
 
 ScriptFishing! | Small terminal fishing script. Made in python!
 
-idk but i asked copilot to make this:
+idk but i asked copilot to make this long ass essay or smth:
 ## 📋 Overview
 
 ScriptFishing is a fun, interactive terminal-based fishing simulator written in Python. Simulate the thrill of fishing with a simple script that randomly determines whether you catch a fish or lose your line!
